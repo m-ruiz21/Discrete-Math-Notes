@@ -4,8 +4,6 @@
 - [[#Truth Tables]]
 - [[#Conditional Statements (if then)]]
 - [[#Biconditional Statements (if and only if)]]
-- Logical Equivalences
-
 ## Introduction
 Propositional logic is the foundation of logical reasoning, and it allows us to precisely describe our mathematical reasoning. For this reason, it's a foundational concept of the class. 
 
@@ -96,8 +94,29 @@ Implication is a one way road (hence the singular direction of the arrow), so I 
 >However, just because the light is turned on doesn't mean that mark was the one that flipped on the light switch. It could have been Rebecca, Alex, John, etc. 
 >The logical "cause / effect" connection only goes in one direction.
 
+### Converse, Contrapositive, and Inverse
+In particular, there are three related conditional statements that occur so often that they have special names : converse, contrapositive, and inverse.
+
+Here's the four relations based on $p \rightarrow q$ 
+
+| Name | Relationship |
+| - | -| 
+| Converse |  $q \rightarrow p$ |
+| Contrapositive |  $\neg q \rightarrow \neg p$ |
+| Inverse | $\neg p \rightarrow \neg q$ |
+
 ## Biconditional Statements (if and only if)
 
 **TLDR: Biconditional statements (IFF / if and only if) is a conditional statement that goes both ways.**
 
-Biconditional statements is a logical operator that only evaluates to true when both sides are true / false. 
+A Biconditional statements is a logical operator that allows us to represent the idea (x if and only if y) only evaluates to true when both sides are true / false.  
+You can think of it as a two way conditional statement. 
+
+It is represented by the symbol $\leftrightarrow$ and has the following truth table:
+
+| $p$ | $q$ | $p \leftrightarrow q$ |
+| - | - | - |
+| 0 | 0 | 1 |
+| 0 | 1 | 0 |
+| 1 | 0 | 0 |
+| 1 | 1 | 1 |
