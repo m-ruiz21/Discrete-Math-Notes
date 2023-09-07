@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9600c066b39a51bf",
+        "id": "7777ee3bbd7f14a3",
         "type": "tabs",
         "children": [
           {
-            "id": "34090d106b37d341",
+            "id": "e7cd336709bc74e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Section 1.1 - Propositional Logic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b25d252a205bc361",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Section 1.1 - Propositional Logic.md",
+                "file": "Notes/Section 1.4 Predicates and Quantifiers.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Section 1.1 - Propositional Logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Section 1.1 - Propositional Logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,11 +123,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Section 1.1 - Propositional Logic.md"
+                "file": "Notes/Section 1.6.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -159,10 +145,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b25d252a205bc361",
+  "active": "b350bd009d812449",
   "lastOpenFiles": [
-    "README.md",
+    "Notes/Section 1.4 Predicates and Quantifiers.md",
+    "Notes/Section 1.6.md",
     "Notes/Section 1.1 - Propositional Logic.md",
+    "2023-08-31.md",
+    "[[Section.md",
+    "Section.md",
+    "README.md",
     "Three laws of motion.md",
     "Notes"
   ]
